@@ -32,7 +32,7 @@ import { CommonModule } from '@angular/common';
                 </div>
                 <div class="flex items-center">
                   <span class="material-icons text-brand-gold mr-4">email</span>
-                  <a href="mailto:info@yathraaevents.com" class="text-slate-300 hover:text-white transition-colors">info@yathraaevents.com</a>
+                  <a href="mailto:info@yathraaevents.com" class="text-slate-300 hover:text-white transition-colors">info&#64;yathraaevents.com</a>
                 </div>
               </div>
 
